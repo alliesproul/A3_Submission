@@ -1,0 +1,100 @@
+2025-04-01 16:13:49 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:13:49 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:13:49 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:13:49 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:13:49 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:13:53 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:13:53 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:13:53 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:13:53 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:13:53 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:13:55 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:13:55 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:13:55 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:13:55 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:13:55 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:13:58 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:13:58 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:13:58 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:13:58 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:13:58 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:00 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:00 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:00 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:00 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:00 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:14:03 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:14:03 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:03 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:03 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:03 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:05 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:14:05 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:05 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:05 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:05 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:08 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:14:08 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:08 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:08 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:08 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:10 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:14:10 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:10 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:10 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:10 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:13 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:14:13 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:14:13 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:14:13 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:14:13 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:23:58 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:23:58 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:23:58 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:23:58 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:23:58 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:03 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:03 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:03 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:03 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:03 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:06 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:06 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:06 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:06 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:06 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:10 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:10 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:10 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:10 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:10 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:13 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:13 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:13 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:13 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:13 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:15 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:15 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:15 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:15 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:15 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:20 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:20 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:20 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:20 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:20 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:23 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:23 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:23 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:23 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:23 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:25 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:25 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:25 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:25 - New York: 6°C, 53% humidity, Sunny
+2025-04-01 16:24:25 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:28 - London: 14°C, 41% humidity, Sunny
+2025-04-01 16:24:28 - Tokyo: 12°C, 88% humidity, Light drizzle
+2025-04-01 16:24:28 - São Paulo: 25°C, 65% humidity, Sunny
+2025-04-01 16:24:28 - Paris: 15°C, 39% humidity, Sunny
+2025-04-01 16:24:28 - New York: 6°C, 53% humidity, Sunny
